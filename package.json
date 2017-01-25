@@ -1,0 +1,17 @@
+{
+  "main": "index.html",
+  "name": "Helix",
+  "window": {
+    "title": "Sunpower Helix",
+    "icon": "link.png",
+    "toolbar": false,
+    "frame": true,
+    "width": 1280,
+    "height": 768,
+    "position": "center",
+    "min_width": 1024,
+    "min_height": 640,
+    "max_width": 1980,
+    "max_height": 1280
+  }
+}
